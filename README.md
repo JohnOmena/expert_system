@@ -13,33 +13,33 @@
 
 ## Árvore de decisão para Alcatel A3 XL
 
-![screenshot](Alcatel A3 XL.png)
+![screenshot](Alcatel_A3_XL.png)
 
 ## Árvore de decisão para Alcatel A3 XL
 
-![screenshot](Apple iPhone 5S.png)
+![screenshot](Apple_iPhone_5S.png)
 
 ## Árvore de decisão para Alcatel A3 XL
 
-![screenshot](Lenovo S5.png)
+![screenshot](Lenovo_S5.png)
 
 ## Árvore de decisão para Alcatel A3 XL
 
-![screenshot](LG B220.png)
+![screenshot](LG_B220.png)
 
 ## Árvore de decisão para Alcatel A3 XL
 
-![screenshot](Motorola Moto G7.png)
+![screenshot](Motorola_Moto_G7.png)
 
 ## Árvore de decisão para Alcatel A3 XL
 
-![screenshot](Positivo p25.png)
+![screenshot](Positivo_p25.png)
 
 ## Árvore de decisão para Alcatel A3 XL
 
-![screenshot](Redmi 8.png)
+![screenshot](Redmi_8.png)
 
 ## Árvore de decisão para Alcatel A3 XL
 
-![screenshot](Samsung Galaxy M30.png)
+![screenshot](Samsung_Galaxy_M30.png)
 
