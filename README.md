@@ -13,33 +13,32 @@
 
 ## Árvore de decisão para Alcatel A3 XL
 
-![screenshot](Alcatel_A3_XL.png)
+![screenshot](https://github.com/JohnOmena/sistema_especialista_IA1/blob/master/fluxo_de_decisao/Alcatex.png)
 
-## Árvore de decisão para Alcatel A3 XL
+## Árvore de decisão para Apple
 
-![screenshot](Apple_iPhone_5S.png)
+![screenshot](https://github.com/JohnOmena/sistema_especialista_IA1/blob/master/fluxo_de_decisao/Apple.png)
 
-## Árvore de decisão para Alcatel A3 XL
+## Árvore de decisão para LG
 
-![screenshot](Lenovo_S5.png)
+![screenshot](https://github.com/JohnOmena/sistema_especialista_IA1/blob/master/fluxo_de_decisao/LG.png)
 
-## Árvore de decisão para Alcatel A3 XL
+## Árvore de decisão para Lenovo
 
-![screenshot](LG_B220.png)
+![screenshot](https://github.com/JohnOmena/sistema_especialista_IA1/blob/master/fluxo_de_decisao/Lenovo.png)
 
-## Árvore de decisão para Alcatel A3 XL
+## Árvore de decisão para Positivo
 
-![screenshot](Motorola_Moto_G7.png)
+![screenshot](https://github.com/JohnOmena/sistema_especialista_IA1/blob/master/fluxo_de_decisao/Positivo.png)
 
-## Árvore de decisão para Alcatel A3 XL
+## Árvore de decisão para Samsung
 
-![screenshot](Positivo_p25.png)
+![screenshot](https://github.com/JohnOmena/sistema_especialista_IA1/blob/master/fluxo_de_decisao/Samsung.png)
 
-## Árvore de decisão para Alcatel A3 XL
+## Árvore de decisão para Moto g7
 
-![screenshot](Redmi_8.png)
+![screenshot](https://github.com/JohnOmena/sistema_especialista_IA1/blob/master/fluxo_de_decisao/moto%20g7.png)
 
-## Árvore de decisão para Alcatel A3 XL
+## Árvore de decisão para Redmi 8
 
-![screenshot](Samsung_Galaxy_M30.png)
-
+![screenshot](https://github.com/JohnOmena/sistema_especialista_IA1/blob/master/fluxo_de_decisao/redmi%208.png)
